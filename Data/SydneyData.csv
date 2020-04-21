@@ -1,0 +1,508 @@
+Suburb,Search Name,Price [$],Location [Deg],Distance to CBD [km]
+Point Piper,Point Piper  Australia,"23,966,600","(-33.8676276, 151.2515727)",3.546846601410703
+Elizabeth Bay,Elizabeth Bay  Australia,"8,881,200","(-33.8716908, 151.2282875)",2.1685452177647755
+Watsons Bay,Watsons Bay  Australia,"8,406,600","(-33.8432736, 151.2825736)",6.2517282865300166
+Duffys Forest,Duffys Forest  Australia,"7,328,300","(-33.6733265, 151.1927796)",20.24956142409013
+Lavender Bay,Lavender Bay  Australia,"6,858,000","(-33.8432002, 151.2074155)",1.5361150143345028
+Bellevue Hill,Bellevue Hill  Australia,"5,733,500","(-33.8797123, 151.2561988)",4.598939449523465
+Rose Bay,Rose Bay  Australia,"5,713,200","(-33.8741644, 151.265471)",5.017745252793238
+Vaucluse,Vaucluse  Australia,"5,502,000","(-33.8558564, 151.2761018)",5.5210891131055595
+Sydney,Sydney  Australia,"5,330,000","(-33.8548157, 151.2164539)",0.0
+Darling Point,Darling Point  Australia,"5,291,600","(-33.8730723, 151.2376378)",2.818338765023252
+Whale Beach,Whale Beach  Australia,"4,267,500","(-33.6096795, 151.3309449)",29.186797611070045
+Tamarama,Tamarama  Australia,"4,175,000","(-33.8987452, 151.2710753)",7.019996396621536
+St Leonards,St Leonards  Australia,"4,142,400","(-33.8225666, 151.1923402)",4.216262669678736
+Centennial Park,Centennial Park  Australia,"4,034,100","(-33.8977778, 151.2338889)",5.030968469825937
+Dawes Point,Dawes Point  Australia,"3,925,000","(-33.8572223, 151.2067756)",0.9345672400618824
+Double Bay,Double Bay  Australia,"3,864,700","(-33.8766373, 151.24245)",3.4124201088393504
+Palm Beach,Palm Beach  Australia,"3,701,300","(-33.6005473, 151.3231536)",29.88621614220337
+Annangrove,Annangrove  Australia,"3,660,600","(-33.6574838, 150.9460077)",33.26988113253837
+Bronte,Bronte  Australia,"3,647,800","(-33.9042128, 151.2637774)",7.013486822401142
+Henley,Henley  Australia,"3,615,000","(-33.8423815, 151.1360364)",7.569221261130968
+Mosman,Mosman  Australia,"3,595,200","(-33.8301355, 151.2447663)",3.7895609059961135
+Clovelly,Clovelly  Australia,"3,542,700","(-33.9126387, 151.2617904)",7.663327476452768
+McMahons Point,McMahons Point  Australia,"3,511,000","(-33.8443387, 151.2027957)",1.717049794516243
+Tennyson Point,Tennyson Point  Australia,"3,505,800","(-33.8313822, 151.116944)",9.569815638853576
+Castle Cove,Castle Cove  Australia,"3,323,100","(-33.7865285, 151.2143187)",7.576937234143308
+Clontarf,Clontarf  Australia,"3,321,800","(-33.8072973, 151.2540699)",6.317022661271154
+Woollahra,Woollahra  Australia,"3,257,500","(-33.861791749999995, 151.27334161152964)",5.320833587221924
+Woolwich,Woolwich  Australia,"3,240,000","(-33.8401988, 151.1710614)",4.503052447075053
+Warrawee,Warrawee  Australia,"3,145,300","(-33.7279732, 151.1232279)",16.507037150044145
+South Coogee,South Coogee  Australia,"3,115,800","(-33.9322056, 151.2539567)",9.258572983849273
+Collaroy,Collaroy  Australia,"3,101,700","(-33.7382194, 151.2996618)",15.054187425369625
+Linley Point,Linley Point  Australia,"3,090,600","(-33.8272222, 151.15)",6.870171876557512
+Queens Park,Queens Park  Australia,"3,090,400","(-33.8991667, 151.2472222)",5.683652318358999
+Cremorne Point,Cremorne Point  Australia,"3,087,500","(-33.8409547, 151.2279762)",1.871079485989572
+Dover Heights,Dover Heights  Australia,"3,062,500","(-33.8739831, 151.2810366)",6.342848440463543
+Kurraba Point,Kurraba Point  Australia,"3,059,100","(-33.8415873, 151.223028)",1.5884329931721577
+Potts Point,Potts Point  Australia,"3,057,500","(-33.8670797, 151.2259967)",1.6218014580408981
+Hunters Hill,Hunters Hill  Australia,"3,031,400","(-33.82986925, 151.13602795542036)",7.941485586028301
+Bilgola Beach,Bilgola Beach  Australia,"2,995,200","(-33.6443165, 151.324484)",25.40325340923625
+Kirribilli,Kirribilli  Australia,"2,991,600","(-33.8476659, 151.2158138)",0.7952630592588231
+Bondi,Bondi  Australia,"2,980,100","(-33.8930556, 151.2633333)",6.066579343865508
+Breakfast Point,Breakfast Point  Australia,"2,961,000","(-33.8422769, 151.1111054)",9.848535174181327
+Roseville,Roseville  Australia,"2,943,400","(-33.7826456, 151.1827257)",8.592508386930348
+Manly,Manly  Australia,"2,871,100","(-33.8038504, 151.2908235)",8.9079064545723
+North Sydney,North Sydney  Australia,"2,858,800","(-33.8354519, 151.2083011)",2.2765127454260363
+Waverton,Waverton  Australia,"2,820,400","(-33.8383333, 151.1986892)",2.4587733294967022
+Northwood,Northwood  Australia,"2,800,000","(-33.827964, 151.1782693)",4.62184362690032
+Lindfield,Lindfield  Australia,"2,744,900","(-33.7802907, 151.1595848)",9.800587106532234
+Waverley,Waverley  Australia,"2,730,000","(-33.88415875, 151.27691615633563)",6.472225523190337
+Castlecrag,Castlecrag  Australia,"2,718,600","(-33.8003455, 151.2197795)",6.049633256007709
+Lovett Bay,Lovett Bay  Australia,"2,713,600","(-33.6325997, 151.2763618)",25.265081520778512
+Cremorne,Cremorne  Australia,"2,692,800","(-33.8260081, 151.2254326)",3.301625865301583
+Queenscliff,Queenscliff  Australia,"2,679,000","(-33.7823916, 151.2854011)",10.260484689904269
+Ingleside,Ingleside  Australia,"2,657,300","(-33.6882558, 151.2525009)",18.773862588970264
+Horsley Park,Horsley Park  Australia,"2,652,000","(-33.8387723, 150.8484629)",34.10412237097396
+Strathfield,Strathfield  Australia,"2,644,700","(-33.87981765, 151.07852459132124)",13.060176582820782
+Riverview,Riverview  Australia,"2,643,000","(-33.823207, 151.1600134)",6.291500270536008
+East Lindfield,East Lindfield  Australia,"2,641,600","(-33.7681132, 151.1883362)",9.963098751765386
+Longueville,Longueville  Australia,"2,628,000","(-33.8291667, 151.1686111)",5.263276026839092
+East Killara,East Killara  Australia,"2,623,700","(-33.7554823, 151.1811998)",11.491354705915565
+Chiswick,Chiswick  Australia,"2,621,200","(-33.8498337, 151.1378781)",7.292712742966148
+Putney,Putney  Australia,"2,614,500","(-33.826067, 151.1064224)",10.671755899814633
+Willoughby East,Willoughby East  Australia,"2,611,200","(-33.7991667, 151.2061111)",6.246361896127612
+Kensington,Kensington  Australia,"2,608,900","(-33.9117191, 151.2195058)",6.318052495573813
+Millers Point,Millers Point  Australia,"2,601,600","(-33.8599129, 151.2041274)",1.2731095843482851
+North Bondi,North Bondi  Australia,"2,586,900","(-33.882351, 151.2768611)",6.36932850406653
+Greenwich,Greenwich  Australia,"2,573,100","(-33.8300104, 151.1855621)",3.968014292119881
+Balmain East,Balmain East  Australia,"2,572,700","(-33.8571789, 151.192354)",2.2455655611959315
+North Willoughby,North Willoughby  Australia,"2,540,000","(-33.7941912, 151.2004163)",6.8863705964852615
+Randwick,Randwick  Australia,"2,513,000","(-33.94585945, 151.24275411853012)",10.387476331942313
+Pymble,Pymble  Australia,"2,511,800","(-33.7450185, 151.1424708)",13.973272308442187
+North Curl Curl,North Curl Curl  Australia,"2,502,500","(-33.7630002, 151.2904773)",12.275647234087202
+Balgowlah Heights,Balgowlah Heights  Australia,"2,492,000","(-33.807495, 151.2649923)",6.909218949548155
+Seaforth,Seaforth  Australia,"2,488,100","(-33.7910792, 151.2430284)",7.485429311181457
+Bondi Beach,Bondi Beach  Australia,"2,483,500","(-33.8906977, 151.2724119)",6.530372440294881
+Curl Curl,Curl Curl  Australia,"2,432,800","(-33.7698341, 151.2898175)",11.618501673563788
+Rhodes,Rhodes  Australia,"2,427,800","(-33.8290589, 151.0873578)",12.28536251519922
+Burraneer,Burraneer  Australia,"2,410,900","(-34.0644603, 151.1377905)",24.36427451717156
+Chatswood,Chatswood  Australia,"2,409,200","(-33.7944797, 151.1818571)",7.419316147595992
+Burwood,Burwood  Australia,"2,408,000","(-33.8858088, 151.10248109002006)",11.091532485273595
+Willoughby,Willoughby  Australia,"2,404,400","(-33.801595649999996, 151.18365157555556)",6.638329002786378
+Coogee,Coogee  Australia,"2,395,600","(-33.9217004, 151.2557975)",8.26351561657937
+Freshwater,Freshwater  Australia,"2,381,900","(-33.7750987, 151.2844815)",10.855967055801377
+Roseville Chase,Roseville Chase  Australia,"2,370,000","(-33.7747222, 151.2002778)",9.009249177593798
+Artarmon,Artarmon  Australia,"2,339,600","(-33.8094124, 151.1857609)",5.782247378978636
+Wollstonecraft,Wollstonecraft  Australia,"2,338,700","(-33.8332039, 151.1959273)",3.0587072522333267
+Paddington,Paddington  Australia,"2,311,400","(-33.8841572, 151.2272766)",3.405131706882316
+Neutral Bay,Neutral Bay  Australia,"2,305,000","(-33.8342887, 151.2182049)",2.2826064533972468
+Connells Point,Connells Point  Australia,"2,297,600","(-33.9869476, 151.0942725)",18.505466915007716
+Fairlight,Fairlight  Australia,"2,287,700","(-33.7938789, 151.2741471)",8.614542162771311
+Greenhills Beach,Greenhills Beach  Australia,"2,274,200","(-34.0360657, 151.1632914)",20.696467686235696
+Kemps Creek,Kemps Creek  Australia,"2,273,300","(-33.8971689, 150.8004576)",38.7731080220966
+Banksmeadow,Banksmeadow  Australia,"2,270,000","(-33.9542459, 151.2157073)",11.029079857921207
+Kenthurst,Kenthurst  Australia,"2,253,900","(-33.6436678, 150.9761716)",32.31345355342909
+Gordon,Gordon  Australia,"2,245,900","(-33.7553899, 151.1518099)",12.547909865870345
+Cottage Point,Cottage Point  Australia,"2,226,300","(-33.6195161, 151.203318)",26.127250478590945
+Clareville,Clareville  Australia,"2,200,900","(-33.6320071, 151.3145323)",26.331484345709683
+Cammeray,Cammeray  Australia,"2,200,800","(-33.8222738, 151.2139868)",3.616746429544977
+Crows Nest,Crows Nest  Australia,"2,197,600","(-33.8255649, 151.2036095)",3.4554347442982167
+Edgecliff,Edgecliff  Australia,"2,185,500","(-33.8797692, 151.2361116)",3.3119957918222878
+Lane Cove West,Lane Cove West  Australia,"2,180,300","(-33.8119396, 151.150078)",7.76962914722203
+Maroubra,Maroubra  Australia,"2,132,300","(-33.9453441, 151.2456824)",10.399013731269054
+Dolans Bay,Dolans Bay  Australia,"2,130,000","(-34.0644424, 151.1282277)",24.6406084996198
+Avalon,Avalon  Australia,"2,126,200","(-33.6365039, 151.3290299)",26.365881107716035
+Birchgrove,Birchgrove  Australia,"2,122,500","(-33.8507685, 151.1830352)",3.1251057796560002
+Kyle Bay,Kyle Bay  Australia,"2,117,200","(-33.9897577, 151.0992166)",18.481361698962893
+North Turramurra,North Turramurra  Australia,"2,116,200","(-33.6911595, 151.1519372)",19.11090221666953
+Kingsford,Kingsford  Australia,"2,115,200","(-33.9215922, 151.2272307)",7.4736618127539005
+Naremburn,Naremburn  Australia,"2,104,300","(-33.8171309, 151.2020304)",4.388007339716254
+Drummoyne,Drummoyne  Australia,"2,103,900","(-33.8520678, 151.153689)",5.8164525890357135
+Middle Dural,Middle Dural  Australia,"2,097,000","(-33.6367412, 151.0127369)",30.68203058757791
+Rodd Point,Rodd Point  Australia,"2,076,600","(-33.8658359, 151.143583)",6.853056353874662
+St Ives Chase,St Ives Chase  Australia,"2,076,200","(-33.7030556, 151.1652778)",17.487653691158126
+Lane Cove,Lane Cove  Australia,"2,074,400","(-33.8232026, 151.16971557595508)",5.5686814361079575
+North Balgowlah,North Balgowlah  Australia,"2,041,700","(-33.7881457, 151.2507285)",8.04699002407394
+Wareemba,Wareemba  Australia,"2,032,100","(-33.8575001, 151.1319513)",7.825555116391477
+Malabar,Malabar  Australia,"2,023,200","(-33.9629779, 151.2480171)",12.347441740410249
+Wahroonga,Wahroonga  Australia,"1,986,300","(-33.720367, 151.1142463)",17.663401499179425
+St Ives,St Ives  Australia,"1,979,100","(-33.7258869, 151.1727212)",14.863068675349481
+Lane Cove North,Lane Cove North  Australia,"1,976,800","(-33.8059265, 151.1617117)",7.4218999378246036
+Avalon Beach,Avalon Beach  Australia,"1,972,200","(-33.6365039, 151.3290299)",26.365881107716035
+Haberfield,Haberfield  Australia,"1,967,200","(-33.8794325, 151.1391605)",7.655345974788562
+Balgowlah,Balgowlah  Australia,"1,966,800","(-33.7944424, 151.2608261)",7.8560344912414095
+Cronulla,Cronulla  Australia,"1,963,300","(-34.0575259, 151.1523851)",23.251724871000853
+North Manly,North Manly  Australia,"1,958,400","(-33.7729035, 151.2707221)",10.382377387070036
+Bayview,Bayview  Australia,"1,952,100","(-33.6576847, 151.2866735)",22.812683989332072
+Glebe,Glebe  Australia,"1,951,700","(-33.8777782, 151.1862377)",3.7820855054675913
+Cecil Park,Cecil Park  Australia,"1,946,600","(-33.8922547, 150.8135524)",37.507611551495685
+Burwood Heights,Burwood Heights  Australia,"1,936,600","(-33.8894444, 151.1038889)",11.100562902728054
+Turramurra,Turramurra  Australia,"1,935,200","(-33.7354346, 151.1300645)",15.470701321062913
+Middle Cove,Middle Cove  Australia,"1,928,700","(-33.7927992, 151.2112471)",6.895688660825868
+Yowie Bay,Yowie Bay  Australia,"1,926,800","(-34.0502778, 151.1033333)",24.07073912719114
+Abbotsford,Abbotsford  Australia,"1,909,100","(-33.8505529, 151.129759)",8.037009796955877
+Collaroy Plateau,Collaroy Plateau  Australia,"1,900,100","(-33.7303841, 151.2910394)",15.433714482368428
+Balmain,Balmain  Australia,"1,892,000","(-33.8583992, 151.1807353)",3.329202813992338
+Maraylya,Maraylya  Australia,"1,884,000","(-33.5913984, 150.9221281)",39.97265875345995
+Manly Vale,Manly Vale  Australia,"1,880,800","(-33.7830838, 151.2659938)",9.18369026781006
+Concord West,Concord West  Australia,"1,876,400","(-33.843168, 151.0920563)",11.585006118951053
+Bilgola,Bilgola  Australia,"1,873,800","(-33.6443165, 151.324484)",25.40325340923625
+Russell Lea,Russell Lea  Australia,"1,864,100","(-33.8585361, 151.1416007)",6.939170493150924
+Taren Point,Taren Point  Australia,"1,862,500","(-34.0200181, 151.1226751)",20.27204874086786
+Killarney Heights,Killarney Heights  Australia,"1,852,100","(-33.7724836, 151.221976)",9.146496828699963
+Concord,Concord  Australia,"1,850,000","(-33.8556716, 151.1067667)",10.151028613153931
+Gladesville,Gladesville  Australia,"1,848,900","(-33.8275, 151.1263889)",8.869631623609463
+Little Bay,Little Bay  Australia,"1,848,400","(-33.9834309, 151.2470329)",14.543659339188054
+Church Point,Church Point  Australia,"1,843,400","(-33.6500957, 151.2853102)",23.586293225981894
+Darlinghurst,Darlinghurst  Australia,"1,833,000","(-33.8783381, 151.219225)",2.621672895704881
+Bondi Junction,Bondi Junction  Australia,"1,826,300","(-33.8930034, 151.2501228)",5.2579086271129105
+Kogarah Bay,Kogarah Bay  Australia,"1,807,900","(-33.9816792, 151.1239702)",16.466848701716405
+Rosebery,Rosebery  Australia,"1,804,300","(-33.9185861, 151.204692)",7.156629989653225
+Annandale,Annandale  Australia,"1,798,200","(-33.881224, 151.1709976)",5.12545733598712
+Dee Why,Dee Why  Australia,"1,786,900","(-33.7536635, 151.2899954)",13.124512026931832
+Rozelle,Rozelle  Australia,"1,769,600","(-33.8645002, 151.1743543)",4.041133228552206
+Chatswood West,Chatswood West  Australia,"1,765,300","(-33.7960029, 151.1597081)",8.375634091180547
+Bella Vista,Bella Vista  Australia,"1,754,700","(-33.7416936, 150.9547183)",27.292620759161373
+Oatley,Oatley  Australia,"1,754,500","(-33.9841882, 151.0743856)",19.455456780237125
+Glenorie,Glenorie  Australia,"1,752,200","(-33.5658885, 150.9927835)",38.16922484601346
+Canada Bay,Canada Bay  Australia,"1,744,500","(-33.84851275, 151.09758197601218)",11.023201200020003
+East Ryde,East Ryde  Australia,"1,740,300","(-33.8097017, 151.1353884)",9.019356727216886
+Phillip Bay,Phillip Bay  Australia,"1,736,000","(-33.9787887, 151.2327229)",13.833249492185937
+Surry Hills,Surry Hills  Australia,"1,735,400","(-33.8845123, 151.2100301)",3.3471426414540315
+Lilyfield,Lilyfield  Australia,"1,734,900","(-33.8709879, 151.1616185)",5.381828821642537
+Chifley,Chifley  Australia,"1,733,300","(-33.9702813, 151.2394867)",12.983457337055569
+Pleasure Point,Pleasure Point  Australia,"1,730,000","(-33.9725, 150.9877778)",24.851872157632517
+Bilgola Plateau,Bilgola Plateau  Australia,"1,725,100","(-33.6438092, 151.315858)",25.151445105493178
+Dural,Dural  Australia,"1,723,000","(-33.6876398, 151.0267199)",25.548605059034628
+Elanora Heights,Elanora Heights  Australia,"1,719,600","(-33.6994613, 151.2750587)",18.066440515923414
+North Wahroonga,North Wahroonga  Australia,"1,711,600","(-33.7024148, 151.1283034)",18.772632039726073
+Beecroft,Beecroft  Australia,"1,709,400","(-33.7497631, 151.0657475)",18.180276314579462
+Stanmore,Stanmore  Australia,"1,702,200","(-33.8936689, 151.1656456)",6.377332417098416
+Huntleys Cove,Huntleys Cove  Australia,"1,699,200","(-33.8383333, 151.1375)",7.532459995716
+Narrabeen,Narrabeen  Australia,"1,693,500","(-33.7135699, 151.2978164)",17.384852874378776
+Pagewood,Pagewood  Australia,"1,684,800","(-33.936838, 151.2216943)",9.11085846821375
+Five Dock,Five Dock  Australia,"1,680,700","(-33.8690024, 151.1290231)",8.241934978457245
+Mona Vale,Mona Vale  Australia,"1,680,400","(-33.6769931, 151.3029577)",21.289492173089602
+Denistone,Denistone  Australia,"1,677,300","(-33.7989066, 151.0887)",13.353696316365891
+Eastwood,Eastwood  Australia,"1,674,700","(-33.79, 151.0844444)",14.178809823388852
+West Pymble,West Pymble  Australia,"1,671,300","(-33.7646844, 151.1318993)",12.69793351830392
+Allambie Heights,Allambie Heights  Australia,"1,668,100","(-33.7705067, 151.249675)",9.844329414385012
+West Pennant Hills,West Pennant Hills  Australia,"1,664,800","(-33.7478359, 151.0350621)",20.565368336343923
+Glenhaven,Glenhaven  Australia,"1,663,700","(-33.7027383, 151.0008049)",26.14388775348809
+Forest Lodge,Forest Lodge  Australia,"1,657,800","(-33.8805556, 151.1783333)",4.537914068512636
+South Turramurra,South Turramurra  Australia,"1,653,300","(-33.7510951, 151.1084667)",15.242769426142731
+Sans Souci,Sans Souci  Australia,"1,647,800","(-33.9926292, 151.1337972)",17.09065246840743
+Summer Hill,Summer Hill  Australia,"1,646,300","(-33.8933952, 151.1368729)",8.51611619718734
+Brighton Le Sands,Brighton Le Sands  Australia,"1,645,100","(-33.9580947, 151.1526052)",12.888177761451786
+North Ryde,North Ryde  Australia,"1,638,300","(-33.7975472, 151.127306)",10.414237410307146
+North Strathfield,North Strathfield  Australia,"1,627,300","(-33.8588178, 151.088578)",11.841894850479093
+Wheeler Heights,Wheeler Heights  Australia,"1,626,000","(-33.7286867, 151.2806965)",15.202564753876905
+La Perouse,La Perouse  Australia,"1,622,300","(-33.9887589, 151.2318011)",14.92473442763756
+Matraville,Matraville  Australia,"1,618,600","(-33.9639325, 151.2334198)",12.204598217099715
+Belrose,Belrose  Australia,"1,612,200","(-33.730009, 151.2191438)",13.845630854028986
+Petersham,Petersham  Australia,"1,609,500","(-33.8945061, 151.1554222)",7.160066324835664
+Monterey,Monterey  Australia,"1,608,500","(-33.9720137, 151.1480392)",14.457578615195878
+Kentlyn,Kentlyn  Australia,"1,608,300","(-34.0591667, 150.8697222)",39.25451181393164
+Alexandria,Alexandria  Australia,"1,602,400","(-33.9091568, 151.1921281)",6.433938757057683
+Forestville,Forestville  Australia,"1,600,100","(-33.7620891, 151.2150889)",10.285911873193976
+Davidson,Davidson  Australia,"1,598,000","(-33.7398592, 151.1942222)",12.915960330777171
+Beacon Hill,Beacon Hill  Australia,"1,596,500","(-33.751787, 151.2600828)",12.120892822034893
+Blakehurst,Blakehurst  Australia,"1,589,300","(-33.9898519, 151.1085596)",17.996900280968692
+Frenchs Forest,Frenchs Forest  Australia,"1,588,200","(-33.7479954, 151.2292718)",11.907682532457153
+Port Hacking,Port Hacking  Australia,"1,585,600","(-34.07353, 151.12613)",25.656299615690788
+Dulwich Hill,Dulwich Hill  Australia,"1,579,400","(-33.9045849, 151.1386091)",9.07418343382108
+Homebush,Homebush  Australia,"1,574,100","(-33.860451, 151.0806118)",12.586170851832971
+Ashfield,Ashfield  Australia,"1,571,900","(-33.8894781, 151.1274125)",9.091367013960175
+Ryde,Ryde  Australia,"1,568,000","(-33.801575099999994, 151.1046183940153)",11.918525888420255
+Denistone East,Denistone East  Australia,"1,545,500","(-33.7962842, 151.0982887)",12.720446582890265
+Caringbah South,Caringbah South  Australia,"1,544,000","(-34.0554491, 151.1205937)",23.95365169742746
+Eastgardens,Eastgardens  Australia,"1,543,500","(-33.9447657, 151.2250921)",10.009245380223412
+Killcare,Killcare  Australia,"1,542,500","(-33.5270751, 151.3621333)",38.78020803962881
+Melrose Park,Melrose Park  Australia,"1,539,100","(-33.8153435, 151.0733298)",13.952707920506112
+Cromer,Cromer  Australia,"1,536,100","(-33.7385227, 151.2762995)",14.03920694050074
+Brighton-le-sands,Brighton-le-sands  Australia,"1,534,200","(-33.9580947, 151.1526052)",12.888177761451786
+Pyrmont,Pyrmont  Australia,"1,529,000","(-33.8692145, 151.1923633)",2.742278396472674
+Hardys Bay,Hardys Bay  Australia,"1,525,000","(-33.5269717, 151.3542799)",38.543463233826365
+Chippendale,Chippendale  Australia,"1,519,900","(-33.8863291, 151.1998211)",3.8192466812913066
+Redfern,Redfern  Australia,"1,519,800","(-33.8931044, 151.2040292)",4.39981282660005
+Carss Park,Carss Park  Australia,"1,516,600","(-33.9869843, 151.1169446)",17.30877989581602
+Hurstville Grove,Hurstville Grove  Australia,"1,514,600","(-33.9775526, 151.0929579)",17.769846150587423
+Hurlstone Park,Hurlstone Park  Australia,"1,512,700","(-33.91, 151.1286111)",10.173858045207654
+Ashbury,Ashbury  Australia,"1,512,500","(-33.9001107, 151.1180724)",10.396536375682157
+Woolooware,Woolooware  Australia,"1,496,700","(-34.0448411, 151.1401717)",22.22612707808557
+Denistone West,Denistone West  Australia,"1,489,000","(-33.8005739, 151.0767642)",14.262318180351686
+Woolloomooloo,Woolloomooloo  Australia,"1,482,500","(-33.8718758, 151.2192218)",1.9095590345067923
+Marrickville,Marrickville  Australia,"1,468,000","(-33.9103854, 151.1556908)",8.342150507783183
+Enfield,Enfield  Australia,"1,467,700","(-33.8900628, 151.0959145)",11.81804033080257
+Potts Hill,Potts Hill  Australia,"1,466,000","(-33.8922191, 151.0329222)",17.480103116323203
+North Narrabeen,North Narrabeen  Australia,"1,464,100","(-33.70098, 151.2936426)",18.500520626697906
+Newtown,Newtown  Australia,"1,460,500","(-33.8961132, 151.1801893)",5.678050551561233
+Terrey Hills,Terrey Hills  Australia,"1,456,400","(-33.6918185, 151.2205908)",18.083432652032517
+North Epping,North Epping  Australia,"1,449,400","(-33.7586111, 151.0941667)",15.558873471358535
+Darlington,Darlington  Australia,"1,447,200","(-33.890862, 151.1932156)",4.539694688360683
+Lewisham,Lewisham  Australia,"1,446,400","(-33.8953868, 151.1466449)",7.871869958808457
+Earlwood,Earlwood  Australia,"1,446,200","(-33.9247222, 151.1313889)",11.047359330882015
+Dolls Point,Dolls Point  Australia,"1,445,000","(-33.9936111, 151.1447222)",16.763354116581258
+West Ryde,West Ryde  Australia,"1,444,200","(-33.8094444, 151.0858333)",13.096559795652745
+Narraweena,Narraweena  Australia,"1,442,700","(-33.7502066, 151.2741566)",12.774257617624675
+Daceyville,Daceyville  Australia,"1,439,800","(-33.9289328, 151.2251839)",8.260667086528551
+Leichhardt,Leichhardt  Australia,"1,439,700","(-33.8819328, 151.155867)",6.361874173394978
+Castle Hill,Castle Hill  Australia,"1,436,400","(-33.7315318, 151.0071718)",23.71966600099227
+Cherrybrook,Cherrybrook  Australia,"1,429,900","(-33.7227778, 151.0461111)",21.526003720427408
+Mays Hill,Mays Hill  Australia,"1,428,300","(-33.8205758, 150.9884915)",21.439291203568718
+Erskineville,Erskineville  Australia,"1,422,800","(-33.9021718, 151.1859881)",5.961185894791948
+Camperdown,Camperdown  Australia,"1,415,600","(-33.8896116, 151.1800986)",5.119638152421968
+Warriewood,Warriewood  Australia,"1,414,000","(-33.690306, 151.2942716)",19.619302602776667
+Arcadia,Arcadia  Australia,"1,412,500","(-33.6227289, 151.0605602)",29.518945010031608
+Hurstville,Hurstville  Australia,"1,408,300","(-33.960707, 151.1003611)",15.913396919102466
+Enmore,Enmore  Australia,"1,397,000","(-33.8996968, 151.170986)",6.517509661541276
+Ramsgate,Ramsgate  Australia,"1,388,800","(-33.982713, 151.1399314)",15.853374178160493
+Eastlakes,Eastlakes  Australia,"1,380,500","(-33.9310733, 151.2113667)",8.471606930601137
+Minto Heights,Minto Heights  Australia,"1,378,300","(-34.0379407, 150.8715274)",37.80620457658885
+Westleigh,Westleigh  Australia,"1,377,000","(-33.715, 151.0677778)",20.73917699203585
+Croydon Park,Croydon Park  Australia,"1,363,200","(-33.8975316, 151.1024641)",11.561618721270325
+Carlingford,Carlingford  Australia,"1,360,800","(-33.7744947, 151.0475215)",18.000020206092113
+Pennant Hills,Pennant Hills  Australia,"1,354,900","(-33.7384663, 151.0716639)",18.609854477727577
+Wagstaffe,Wagstaffe  Australia,"1,345,700","(-33.5228506, 151.3416957)",38.60825582407696
+Gymea Bay,Gymea Bay  Australia,"1,345,200","(-34.0522918, 151.0970783)",24.526727886076344
+Zetland,Zetland  Australia,"1,334,000","(-33.9076623, 151.2082183)",5.911065631135827
+Homebush West,Homebush West  Australia,"1,332,500","(-33.8619802, 151.0665026)",13.898899003178744
+Botany,Botany  Australia,"1,329,900","(-33.947829, 151.1990644)",10.441707891939263
+Brookvale,Brookvale  Australia,"1,322,700","(-33.7628854, 151.2707024)",11.366829473786009
+Kyeemagh,Kyeemagh  Australia,"1,318,300","(-33.9492195, 151.1607373)",11.670684171901474
+Alfords Point,Alfords Point  Australia,"1,314,900","(-33.9839091, 151.0241615)",22.83036148825817
+Grays Point,Grays Point  Australia,"1,306,000","(-34.0591451, 151.0786995)",25.99626869562648
+Sylvania Waters,Sylvania Waters  Australia,"1,302,400","(-34.0185844, 151.11228)",20.560713491505414
+Meadowbank,Meadowbank  Australia,"1,302,300","(-33.8174993, 151.0884249)",12.552639783194161
+Vineyard,Vineyard  Australia,"1,300,000","(-33.6483333, 150.8677778)",39.60040778664113
+Kurnell,Kurnell  Australia,"1,292,500","(-34.0222379, 151.1880555)",18.755356092362888
+Como,Como  Australia,"1,291,100","(-34.0032179, 151.0631257)",21.724374186794787
+Illawong,Illawong  Australia,"1,288,000","(-33.9973348, 151.0429726)",22.521427742964978
+Normanhurst,Normanhurst  Australia,"1,287,000","(-33.7238649, 151.0977351)",18.216964770303125
+Bonnet Bay,Bonnet Bay  Australia,"1,282,000","(-34.0101087, 151.053572)",22.8802257534079
+Mascot,Mascot  Australia,"1,279,800","(-33.9289562, 151.1951782)",8.455906507375419
+St Peters,St Peters  Australia,"1,274,900","(-33.9159472, 151.176332)",7.7300962167179526
+Oyster Bay,Oyster Bay  Australia,"1,271,000","(-34.0032775, 151.0812354)",20.675894333776434
+Bardwell Park,Bardwell Park  Australia,"1,263,300","(-33.9355556, 151.1238889)",12.39007787141728
+Beverley Park,Beverley Park  Australia,"1,262,900","(-33.9787995, 151.1316285)",15.832240547670741
+Galston,Galston  Australia,"1,256,600","(-33.6467002, 151.0642498)",27.050552925681266
+Maianbar,Maianbar  Australia,"1,251,200","(-34.0783413, 151.1303571)",26.03942037170808
+Lugarno,Lugarno  Australia,"1,246,100","(-33.9823958, 151.0450193)",21.250361809700802
+North Rocks,North Rocks  Australia,"1,242,600","(-33.7713052, 151.020996)",20.32966181192945
+Rydalmere,Rydalmere  Australia,"1,242,500","(-33.8117088, 151.0411702)",16.914965660982915
+Pearl Beach,Pearl Beach  Australia,"1,241,600","(-33.5413889, 151.3075)",35.77440678699062
+Harris Park,Harris Park  Australia,"1,235,300","(-33.8224029, 151.0117558)",19.28476232820622
+Waterloo,Waterloo  Australia,"1,233,500","(-33.9002762, 151.2073137)",5.112900706366784
+Clemton Park,Clemton Park  Australia,"1,228,700","(-33.9258322, 151.1029075)",13.129043566126928
+Newington,Newington  Australia,"1,225,500","(-33.8342301, 151.0558716)",15.036709322316812
+Woronora,Woronora  Australia,"1,225,500","(-34.1164957, 150.9522795)",37.92558540024305
+Hillsdale,Hillsdale  Australia,"1,225,000","(-33.9529465, 151.2274123)",10.931817545746043
+Killcare Heights,Killcare Heights  Australia,"1,224,600","(-33.5231782, 151.3730069)",39.54461142773727
+Liberty Grove,Liberty Grove  Australia,"1,223,300","(-33.8413889, 151.0838889)",12.358806038153501
+Bexley North,Bexley North  Australia,"1,218,400","(-33.9425365, 151.1152081)",13.504463628979705
+Tempe,Tempe  Australia,"1,214,500","(-33.9247552, 151.1647529)",9.113446704517267
+Penshurst,Penshurst  Australia,"1,213,800","(-33.9648292, 151.0849525)",17.22820547456589
+Telopea,Telopea  Australia,"1,213,000","(-33.7939218, 151.0409442)",17.595707030966018
+Beverly Hills,Beverly Hills  Australia,"1,210,900","(-33.9497444, 151.0817342)",16.31349181507464
+Rockdale,Rockdale  Australia,"1,206,500","(-33.9542619, 151.1403655)",13.084266822050008
+Kellyville,Kellyville  Australia,"1,201,700","(-33.7158272, 150.954993)",28.70644234967597
+Arncliffe,Arncliffe  Australia,"1,190,800","(-33.938236, 151.145508)",11.343793380229386
+Beaumont Hills,Beaumont Hills  Australia,"1,185,800","(-33.6997222, 150.9405556)",30.805799094339203
+Belfield,Belfield  Australia,"1,185,300","(-33.9045165, 151.0860013)",13.268277490757887
+Kingsgrove,Kingsgrove  Australia,"1,181,900","(-33.9371844, 151.0996523)",14.149061687864265
+Strathfield South,Strathfield South  Australia,"1,178,500","(-33.8966667, 151.0788889)",13.547532644393634
+Waitara,Waitara  Australia,"1,178,100","(-33.7094453, 151.1055581)",19.117753346558253
+South Hurstville,South Hurstville  Australia,"1,175,600","(-33.9777213, 151.1060554)",17.031721578892473
+Wentworth Point,Wentworth Point  Australia,"1,173,600","(-33.8268958, 151.0774351)",13.234552669873299
+Bexley,Bexley  Australia,"1,172,300","(-33.9523543, 151.1181427)",14.132551205499064
+Ermington,Ermington  Australia,"1,170,700","(-33.8101156, 151.0600559)",15.302586960175324
+Kogarah,Kogarah  Australia,"1,165,900","(-33.968226, 151.1354509)",14.64115029657859
+Ultimo,Ultimo  Australia,"1,165,000","(-33.8794728, 151.1984346)",3.2031097248494325
+Peakhurst Heights,Peakhurst Heights  Australia,"1,164,700","(-33.9768872, 151.0544039)",20.196783656968986
+Sydenham,Sydenham  Australia,"1,164,500","(-33.9147428, 151.1661069)",8.11648306127344
+Hornsby,Hornsby  Australia,"1,159,100","(-33.5724083, 151.13177549754764)",32.29229248529965
+Patonga,Patonga  Australia,"1,157,800","(-33.5514267, 151.2698864)",34.013629378380536
+Marsfield,Marsfield  Australia,"1,155,600","(-33.7777956, 151.1032015)",13.524924427454872
+Bundeena,Bundeena  Australia,"1,153,400","(-34.0845443, 151.1512348)",26.185063093086292
+Thornleigh,Thornleigh  Australia,"1,148,400","(-33.7236616, 151.0809407)",19.212880715007483
+Sylvania,Sylvania  Australia,"1,139,400","(-34.0141205, 151.0988161)",20.749267559341078
+Kareela,Kareela  Australia,"1,139,300","(-34.0157553, 151.0812662)",21.79217040684293
+Barden Ridge,Barden Ridge  Australia,"1,138,700","(-34.0311727, 151.0105268)",27.29611140868485
+Miranda,Miranda  Australia,"1,132,600","(-34.0335434, 151.1037193)",22.397158233054647
+Bardwell Valley,Bardwell Valley  Australia,"1,130,100","(-33.937452, 151.1304335)",12.137738166933728
+Parramatta,Parramatta  Australia,"1,128,000","(-33.806969699999996, 151.02136251722922)",18.82275617469045
+Hornsby Heights,Hornsby Heights  Australia,"1,127,600","(-33.6589881, 151.098374)",24.32018836412663
+Baulkham Hills,Baulkham Hills  Australia,"1,127,400","(-33.7611198, 150.9914041)",23.28567297936525
+Scotland Island,Scotland Island  Australia,"1,125,000","(-33.6397464, 151.2911746)",24.83939913117675
+Banksia,Banksia  Australia,"1,120,600","(-33.9448646, 151.1402066)",12.227069725995008
+Picnic Point,Picnic Point  Australia,"1,118,800","(-33.9709556, 151.0072387)",23.244344104856786
+Asquith,Asquith  Australia,"1,118,600","(-33.6871935, 151.1110257)",21.001212123039764
+Lidcombe,Lidcombe  Australia,"1,107,800","(-33.8630649, 151.0456771)",15.829674238453274
+Dundas Valley,Dundas Valley  Australia,"1,103,000","(-33.7936744, 151.0559069)",16.336712483833068
+Pretty Beach,Pretty Beach  Australia,"1,098,100","(-33.5283078, 151.3476166)",38.20252079389707
+Mortdale,Mortdale  Australia,"1,096,300","(-33.9672997, 151.0721865)",18.266891919417404
+Campsie,Campsie  Australia,"1,087,100","(-33.9143894, 151.1032133)",12.385791961507385
+Caringbah,Caringbah  Australia,"1,081,800","(-34.0354477, 151.1248018)",21.7537567212597
+Westmead,Westmead  Australia,"1,075,300","(-33.8076498, 150.9877265)",21.809395601427823
+Woronora Heights,Woronora Heights  Australia,"1,074,500","(-34.034387, 151.027167)",26.51297756247622
+Mount Colah,Mount Colah  Australia,"1,072,800","(-33.6719686, 151.1145291)",22.37137968092064
+Voyager Point,Voyager Point  Australia,"1,065,700","(-33.9586149, 150.9738889)",25.215753818659483
+Peakhurst,Peakhurst  Australia,"1,044,000","(-33.9616444, 151.0590667)",18.76918205418881
+The Ponds,The Ponds  Australia,"1,043,600","(-33.7066667, 150.9091667)",32.864491413261995
+Kirrawee,Kirrawee  Australia,"1,040,700","(-34.0344781, 151.0726428)",23.955926818660842
+Yarrawarrah,Yarrawarrah  Australia,"1,039,000","(-34.056681, 151.0308884)",28.205810976134487
+Great Mackerel Beach,Great Mackerel Beach  Australia,"1,038,300","(-33.591505, 151.2988852)",30.188485456691996
+Rouse Hill,Rouse Hill  Australia,"1,033,100","(-33.6774941, 150.9160933)",34.0740591444742
+Berowra,Berowra  Australia,"1,026,000","(-33.6264261, 151.1473881)",26.12838345075069
+Belmore,Belmore  Australia,"1,024,100","(-33.9194073, 151.0878936)",13.884046393044764
+Warwick Farm,Warwick Farm  Australia,"1,023,300","(-33.915, 150.9344444)",26.929022330867404
+Heathcote,Heathcote  Australia,"1,020,100","(-34.0848266, 151.007392)",32.00349151847891
+Glenwood,Glenwood  Australia,"1,017,600","(-33.7331483, 150.928232)",29.909050428655853
+Gymea,Gymea  Australia,"1,012,300","(-34.0341447, 151.085653)",23.27835094435911
+Bangor,Bangor  Australia,"1,010,100","(-34.0155034, 151.0334872)",24.57315088335943
+Kellyville Ridge,Kellyville Ridge  Australia,"1,009,000","(-33.7025, 150.9186111)",32.349433475800446
+Berowra Heights,Berowra Heights  Australia,"1,008,400","(-33.6095775, 151.1373221)",28.172426132833
+Jannali,Jannali  Australia,"1,006,900","(-34.0163159, 151.0658096)",22.69109616585557
+Wentworthville,Wentworthville  Australia,"1,006,300","(-33.8066667, 150.9677778)",23.630762317525953
+Abbotsbury,Abbotsbury  Australia,"1,003,000","(-33.8692846, 150.8667029)",32.40356187945043
+Menai,Menai  Australia,"999,900","(-34.014811, 151.0164823)",25.62758298023481
+Narwee,Narwee  Australia,"994,200","(-33.9455556, 151.0694444)",16.917129636622345
+Loftus,Loftus  Australia,"993,700","(-34.0434357, 151.0504559)",25.945973112379452
+Mount Kuring-gai,Mount Kuring-gai  Australia,"986,200","(-33.6530641, 151.1368864)",23.56087444015021
+Turrella,Turrella  Australia,"982,800","(-33.9302706, 151.1409234)",10.902364348383449
+Winston Hills,Winston Hills  Australia,"982,000","(-33.7761098, 150.9816606)",23.425588418725532
+Cowan,Cowan  Australia,"978,300","(-33.5888297, 151.1698568)",29.816907493932906
+Little Forest,Little Forest  Australia,"978,300","(-34.0316667, 150.9761111)",29.639197082329897
+Coasters Retreat,Coasters Retreat  Australia,"977,000","(-33.6048099, 151.2988042)",28.761086230871854
+Lilli Pilli,Lilli Pilli  Australia,"967,200","(-34.0680729, 151.1159938)",25.41192898342781
+Holroyd,Holroyd  Australia,"965,000","(-33.8297155, 150.9974898)",20.4566016193098
+Elvina Bay,Elvina Bay  Australia,"960,000","(-33.6377531, 151.2802489)",24.791140102612342
+Roselands,Roselands  Australia,"957,800","(-33.9339943, 151.0765121)",15.64263352944431
+Sutherland,Sutherland  Australia,"956,100","(-34.0717253, 151.04927175696895)",28.594373887570683
+Revesby Heights,Revesby Heights  Australia,"953,600","(-33.9683842, 151.0189891)",22.18498340678002
+Panania,Panania  Australia,"953,500","(-33.9532567, 150.9968874)",23.056824352516642
+Engadine,Engadine  Australia,"948,200","(-34.0650134, 151.0138225)",29.90619011971453
+North Parramatta,North Parramatta  Australia,"942,600","(-33.7952747, 151.0116649)",20.07547950264337
+Bankstown,Bankstown  Australia,"941,600","(-33.9171897, 151.0335881)",18.27664754335343
+Padstow,Padstow  Australia,"936,800","(-33.9487767, 151.030116)",20.14082238999412
+Northmead,Northmead  Australia,"929,700","(-33.7844423, 150.9983289)",21.650037228374824
+Padstow Heights,Padstow Heights  Australia,"927,700","(-33.9704029, 151.0330262)",21.26336455818005
+MacQuarie Links,MacQuarie Links  Australia,"927,100","(-33.9816667, 150.8733333)",34.709274182728954
+Revesby,Revesby  Australia,"925,800","(-33.9436876, 151.0137191)",21.184910205162087
+Shelly Beach,Shelly Beach  Australia,"924,900","(-34.064146199999996, 151.15546489014878)",23.89377268594348
+Stanhope Gardens,Stanhope Gardens  Australia,"924,800","(-33.710284, 150.9258277)",31.329850757655343
+Kings Langley,Kings Langley  Australia,"924,200","(-33.7505506, 150.9372174)",28.325190037171026
+Colebee,Colebee  Australia,"924,100","(-33.7270077, 150.8521783)",36.593249347421725
+Condell Park,Condell Park  Australia,"918,000","(-33.9227852, 151.0113144)",20.41921114320714
+Ramsgate Beach,Ramsgate Beach  Australia,"915,000","(-33.9824013, 151.1461479)",15.57384584489774
+Cecil Hills,Cecil Hills  Australia,"908,700","(-33.89, 150.8511111)",34.02702069037671
+Prairiewood,Prairiewood  Australia,"908,300","(-33.8631743, 150.9055074)",28.789026027196325
+Riverwood,Riverwood  Australia,"907,500","(-33.9472222, 151.0530556)",18.260908608925632
+Greenacre,Greenacre  Australia,"905,100","(-33.9022902, 151.058546)",15.529094340822835
+Edensor Park,Edensor Park  Australia,"902,300","(-33.8802849, 150.8762602)",31.60391955505225
+Chipping Norton,Chipping Norton  Australia,"898,100","(-33.919687, 150.9630711)",24.51918105824597
+Cabramatta West,Cabramatta West  Australia,"897,000","(-33.8916949, 150.914639)",28.222466097295698
+Bonnyrigg Heights,Bonnyrigg Heights  Australia,"894,400","(-33.8912101, 150.8695795)",32.346399550771146
+East Hills,East Hills  Australia,"894,200","(-33.960853, 150.9879189)",24.18812778218109
+Georges Hall,Georges Hall  Australia,"892,500","(-33.9101113, 150.9879924)",22.00734347660645
+Leppington,Leppington  Australia,"888,700","(-33.9543857, 150.80806378606871)",39.35271003332985
+Pemulwuy,Pemulwuy  Australia,"886,100","(-33.8164641, 150.9284441)",26.99611614103853
+Rosehill,Rosehill  Australia,"879,300","(-33.8263889, 151.0305556)",17.492704812587384
+Merrylands,Merrylands  Australia,"876,100","(-33.8350765, 150.9860379)",21.43762718057484
+Carnes Hill,Carnes Hill  Australia,"874,500","(-33.9378294, 150.8504602)",35.08316167920837
+Punchbowl,Punchbowl  Australia,"871,500","(-33.928717, 151.0522591)",17.25914931656074
+Edmondson Park,Edmondson Park  Australia,"869,400","(-33.9628336, 150.8563294)",35.395068486479815
+Girraween,Girraween  Australia,"867,600","(-33.7983305, 150.9427707)",26.09861132595233
+Macquarie Park,Macquarie Park  Australia,"866,700","(-33.7814961, 151.1256747)",11.694997022134476
+Berala,Berala  Australia,"862,000","(-33.8753943, 151.0343253)",17.006338614131597
+Mooney Mooney,Mooney Mooney  Australia,"859,300","(-33.5238945, 151.203356)",36.7248019748625
+Berowra Waters,Berowra Waters  Australia,"858,300","(-33.5994177, 151.1229517)",29.623898376884128
+Bungarribee,Bungarribee  Australia,"856,300","(-33.7822832, 150.86499)",33.5186159433238
+Lakemba,Lakemba  Australia,"854,300","(-33.9196311, 151.0749236)",14.936539298656724
+Old Toongabbie,Old Toongabbie  Australia,"852,900","(-33.7858548, 150.9699533)",24.06853031250118
+Milperra,Milperra  Australia,"852,500","(-33.9388237, 150.9846424)",23.378960512266307
+Canley Vale,Canley Vale  Australia,"848,900","(-33.8871356, 150.9462342)",25.25756869424969
+Moorebank,Moorebank  Australia,"848,800","(-33.9332633, 150.949686)",26.16509806267808
+West Hoxton,West Hoxton  Australia,"846,300","(-33.9316667, 150.8344444)",36.34958536358765
+Acacia Gardens,Acacia Gardens  Australia,"841,800","(-33.7324595, 150.9125321)",31.24666173909743
+Wiley Park,Wiley Park  Australia,"841,600","(-33.9230556, 151.0677778)",15.698560410729533
+Bossley Park,Bossley Park  Australia,"841,400","(-33.8622222, 150.8844444)",30.73435307099033
+Brooklyn,Brooklyn  Australia,"840,800","(-33.5469129, 151.2265249)",34.16441346283641
+Denham Court,Denham Court  Australia,"840,600","(-33.9813889, 150.8294444)",38.44338267367554
+Greystanes,Greystanes  Australia,"838,400","(-33.8262187, 150.9414378)",25.65155041858891
+Chester Hill,Chester Hill  Australia,"838,200","(-33.8816667, 151.0011111)",20.146421139274462
+Bass Hill,Bass Hill  Australia,"837,900","(-33.8986251, 150.9974484)",20.836505663008207
+Auburn,Auburn  Australia,"832,200","(-33.8545702, 151.0255673)",17.665006908745852
+St Johns Park,St Johns Park  Australia,"830,900","(-33.8816667, 150.9011111)",29.329379379614128
+South Wentworthville,South Wentworthville  Australia,"829,300","(-33.82134, 150.9687481)",23.22629226520444
+Schofields,Schofields  Australia,"826,100","(-33.6971603, 150.8711915)",36.44913381165247
+South Granville,South Granville  Australia,"822,000","(-33.8577778, 151.0105556)",19.0566712981141
+Middleton Grange,Middleton Grange  Australia,"818,800","(-33.9147154, 150.8423882)",35.236613900206784
+Dangar Island,Dangar Island  Australia,"818,700","(-33.5387077, 151.239494)",35.12673486019136
+Yagoona,Yagoona  Australia,"817,300","(-33.9037907, 151.0176677)",19.176280712419214
+Sefton,Sefton  Australia,"816,800","(-33.8873088, 151.0106256)",19.382127277384512
+Fairfield Heights,Fairfield Heights  Australia,"811,900","(-33.8662814, 150.9395106)",25.658610208876503
+Granville,Granville  Australia,"806,100","(-33.8345097, 151.0060111)",19.606824758935183
+Toongabbie,Toongabbie  Australia,"806,000","(-33.7866894, 150.9526498)",25.56485185235449
+Parklea,Parklea  Australia,"805,300","(-33.725, 150.9161111)",31.321176592556878
+Wetherill Park,Wetherill Park  Australia,"796,200","(-33.8483333, 150.9011111)",29.19229393913221
+Holsworthy,Holsworthy  Australia,"795,300","(-33.9597307, 150.9502719)",27.22982857472108
+Merrylands West,Merrylands West  Australia,"795,300","(-33.8359501, 150.9681261)",23.078252336775602
+Regents Park,Regents Park  Australia,"794,200","(-33.8820048, 151.02569)",17.906595598499642
+Canley Heights,Canley Heights  Australia,"793,200","(-33.8816667, 150.9261111)",27.029180563374812
+Birrong,Birrong  Australia,"788,000","(-33.8918622, 151.0201957)",18.617287648585897
+Horningsea Park,Horningsea Park  Australia,"786,100","(-33.9460804, 150.8432271)",35.97431287670744
+Wattle Grove,Wattle Grove  Australia,"786,100","(-33.9564013, 150.9405862)",27.89151813149129
+Silverwater,Silverwater  Australia,"782,200","(-33.834881, 151.0471218)",15.827306970744887
+Greenfield Park,Greenfield Park  Australia,"775,000","(-33.8752778, 150.8919444)",30.11271050699727
+Cheero Point,Cheero Point  Australia,"766,600","(-33.5105556, 151.1933333)",38.24432187202932
+Booker Bay,Booker Bay  Australia,"763,000","(-33.5138889, 151.3475)",39.718845205814944
+Quakers Hill,Quakers Hill  Australia,"762,200","(-33.7344444, 150.8788889)",33.99252066825104
+Green Valley,Green Valley  Australia,"760,400","(-33.9024601, 150.8674187)",32.720895580023466
+Seven Hills,Seven Hills  Australia,"751,300","(-33.7760305, 150.9427044)",26.809093063438755
+Guildford West,Guildford West  Australia,"750,100","(-33.8483084, 150.9657421)",23.213384755389253
+Riverstone,Riverstone  Australia,"749,200","(-33.6797545, 150.8616695)",38.17322877530097
+Fairfield West,Fairfield West  Australia,"749,100","(-33.8689308, 150.9243383)",27.075934231713862
+Fairfield,Fairfield  Australia,"747,900","(-33.867440349999995, 150.88931036078026)",30.30453726476771
+Ettalong Beach,Ettalong Beach  Australia,"745,700","(-33.515, 151.3344444)",39.24698221248793
+Woodcroft,Woodcroft  Australia,"744,600","(-33.7586111, 150.8783333)",33.07632765311019
+Hammondville,Hammondville  Australia,"742,600","(-33.9511518, 150.9608619)",25.94252325015577
+Prestons,Prestons  Australia,"741,700","(-33.9415149, 150.8747464)",33.03682154760986
+Wakeley,Wakeley  Australia,"741,500","(-33.8736111, 150.9086111)",28.561342112784015
+Casula,Casula  Australia,"740,200","(-33.9522222, 150.8952778)",31.60914231078144
+Hinchinbrook,Hinchinbrook  Australia,"734,200","(-33.9159661, 150.8645957)",33.24911577277168
+Minchinbury,Minchinbury  Australia,"732,700","(-33.7866731, 150.8272222)",36.81857503644022
+Austral,Austral  Australia,"728,200","(-33.9282672, 150.8082824)",38.6256866485296
+Smithfield,Smithfield  Australia,"726,600","(-33.8478215, 150.9408736)",25.515487269390544
+Lansvale,Lansvale  Australia,"726,000","(-33.9003985, 150.9510782)",25.06697673097988
+Liverpool,Liverpool  Australia,"725,900","(-33.9198252, 150.92566)",27.850045554444062
+Erskine Park,Erskine Park  Australia,"725,200","(-33.8086111, 150.8013889)",38.761417950520524
+Umina Beach,Umina Beach  Australia,"720,000","(-33.5177778, 151.3094444)",38.364618444565664
+Bonnyrigg,Bonnyrigg  Australia,"719,300","(-33.8936698, 150.888281)",30.667108685245505
+Bardia,Bardia  Australia,"714,600","(-33.9763948, 150.8604327)",35.578272242672284
+Old Guildford,Old Guildford  Australia,"711,200","(-33.8636111, 150.9844444)",21.49159378778104
+Cabramatta,Cabramatta  Australia,"707,300","(-33.8983188, 150.9344502)",26.53293272750453
+Glenfield,Glenfield  Australia,"705,900","(-33.9733455, 150.8957217)",32.44384412545243
+Villawood,Villawood  Australia,"703,300","(-33.8857243, 150.9837511)",21.802063971740083
+Blacktown,Blacktown  Australia,"693,000","(-33.7401885, 150.86483553289474)",34.95532391313684
+Yennora,Yennora  Australia,"692,000","(-33.8620079, 150.9686096)",22.94882674608489
+Hoxton Park,Hoxton Park  Australia,"691,800","(-33.9294022, 150.8560164)",34.35207163605125
+Fairfield East,Fairfield East  Australia,"683,200","(-33.8747423, 150.9721298)",22.715314538968162
+Glendenning,Glendenning  Australia,"660,600","(-33.7483333, 150.8511111)",35.83281873431139
+Rooty Hill,Rooty Hill  Australia,"654,500","(-33.7688649, 150.8411802)",36.029991319586436
+Ashcroft,Ashcroft  Australia,"654,200","(-33.915, 150.9011111)",29.92616787588128
+Marayong,Marayong  Australia,"651,500","(-33.7491667, 150.8919444)",32.25322918474144
+Doonside,Doonside  Australia,"650,000","(-33.7549501, 150.8685985)",34.06128990814541
+Lalor Park,Lalor Park  Australia,"646,900","(-33.7649937, 150.9288833)",28.42909377300695
+Dean Park,Dean Park  Australia,"645,600","(-33.7328296, 150.852577)",36.31263550047639
+Eastern Creek,Eastern Creek  Australia,"645,100","(-33.6750568, 150.8533885)",39.099561800294715
+Plumpton,Plumpton  Australia,"639,500","(-33.7566667, 150.8427778)",36.2725969311555
+Carramar,Carramar  Australia,"629,900","(-33.8838889, 150.9636111)",23.615735920832872
+Ingleburn,Ingleburn  Australia,"629,700","(-33.9983333, 150.8511111)",37.34408393701775
+Lurnea,Lurnea  Australia,"626,400","(-33.9358333, 150.8972222)",30.865442935910092
+Hassall Grove,Hassall Grove  Australia,"619,900","(-33.7316667, 150.8344444)",37.922580532396864
+Oakhurst,Oakhurst  Australia,"619,400","(-33.7372222, 150.8347222)",37.67980271502483
+Colyton,Colyton  Australia,"613,100","(-33.7822222, 150.7958333)",39.76510822158853
+Heckenberg,Heckenberg  Australia,"607,000","(-33.9077778, 150.8913889)",30.64116608648325
+Minto,Minto  Australia,"600,800","(-34.0316667, 150.8511111)",39.05798213417857
+Busby,Busby  Australia,"598,400","(-33.915, 150.8844444)",31.431020117872077
+Mount Druitt,Mount Druitt  Australia,"596,500","(-33.7705556, 150.8205556)",37.82776949412615
+Bow Bowing,Bow Bowing  Australia,"594,200","(-34.0161463, 150.8405606)",39.089668242579215
+Milsons Passage,Milsons Passage  Australia,"590,000","(-33.5157613, 151.1768241)",37.7859009582941
+Sadleir,Sadleir  Australia,"577,300","(-33.9169444, 150.8902778)",30.950873430298294
+Macquarie Fields,Macquarie Fields  Australia,"574,800","(-33.9904477, 150.8849303)",34.14808078662684
+Miller,Miller  Australia,"557,700","(-33.9205556, 150.8805556)",31.916793197132858
+Cartwright,Cartwright  Australia,"556,600","(-33.9250864, 150.8913549)",31.06654848043873
+Hebersham,Hebersham  Australia,"523,200","(-33.7455739, 150.8253839)",38.186655178371204
+Dharruk,Dharruk  Australia,"507,800","(-33.7480556, 150.8147222)",39.039281354249546
